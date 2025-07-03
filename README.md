@@ -5,7 +5,7 @@ Este projeto implementa um **agente inteligente** utilizando **Deep Q-Learning (
 O objetivo é demonstrar, de forma didática, como um agente pode aprender a jogar **apenas por tentativa e erro**, utilizando técnicas de **Aprendizado por Reforço** com redes neurais.
 
 
-![Demo do Jogo](DinoGame.gif)
+![Demo do Jogo](utils/DinoGame.gif)
 
 
 ---
